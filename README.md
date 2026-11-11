@@ -1,1 +1,1 @@
-# web-profil-manusia
+# web-profil-mahasiswa
